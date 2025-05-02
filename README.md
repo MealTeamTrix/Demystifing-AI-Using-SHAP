@@ -1,9 +1,12 @@
-# Project Name
-This project is ________. (Describe the main goals of the project. Limit to 1-2 sentences)
+# SHAP Feature Importance Consistency Checker
 
-## Description
-Optional section to provide a more detailed overview of the project.
+This project compares the consistency of feature importance explanations across two different regression models (Random Forest and k-Nearest Neighbors) using SHAP (SHapley Additive exPlanations).
 
-## Getting Started
-Optional section to summarize important steps and how to use the project & apps in the project
+## Requirements
+
+Install required Python libraries:
+
+```bash
+pip install -r requirements.txt
+
 
