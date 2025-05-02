@@ -1,0 +1,1 @@
+{"schema":"v1","records":[{"type":"ENVIRONMENT","operation":"CREATED","data":[{"data":"Added packages through pip package manager: scikit-learn==1.3.2, numpy==1.26.4, pandas==2.2.1, joblib==1.4.0, shap==0.44.1","mime":"text/plain"}],"important":null}]}
